@@ -1,0 +1,10 @@
+How to understand which branch is remote and which is local in the terminal?
+вопрос 4
+Локальные ветки:
+git branch
+удаленный ветки:
+git branch -r
+Все ветки (локальные и удаленные):
+git branch -a
+Отслеживаемые удаленные ветки:
+git branch -vv
